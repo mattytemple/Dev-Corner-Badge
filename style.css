@@ -1,0 +1,12 @@
+#dev-corner-badge {
+position: absolute;
+left: 0;
+top: 0;
+display: block;
+height: 125px;
+width: 125px;
+background: url(dev.gif) no-repeat;
+text-indent: -999em;
+text-decoration: none;
+z-index: 1000;
+}

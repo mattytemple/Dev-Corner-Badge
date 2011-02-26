@@ -1,0 +1,23 @@
+#dev-corner-badge {
+position: absolute;
+top: 0;
+display: block;
+height: 125px;
+width: 125px;
+z-index: 1000;
+}
+
+a.dev-corner-badge-link {
+border: none;
+text-decoration: none;	
+}
+
+#dev-corner-badge span {
+position: relative;
+top: 14px;
+text-transform: uppercase;
+padding: 5px;
+color: #fff;
+font-family: 'Helvetica', 'Arial', sans-serif;
+font-size: .8em;
+}
